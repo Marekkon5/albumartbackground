@@ -5,8 +5,9 @@ No Root required.
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/Marekkon5/albumartbackground/master/assets/ss0.jpg)
-![Screenshot](https://raw.githubusercontent.com/Marekkon5/albumartbackground/master/assets/ss1.jpg)
+Preview | App
+:------:|:------:
+![Screenshot](https://raw.githubusercontent.com/Marekkon5/albumartbackground/master/assets/ss0.jpg) | ![Screenshot](https://raw.githubusercontent.com/Marekkon5/albumartbackground/master/assets/ss1.jpg)
 
 ## Compiling
 
